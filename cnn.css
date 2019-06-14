@@ -134,7 +134,9 @@ body{
 height: 32px;
 vertical-align: middle;
 line-height: 35px;
-width: 35px;
+width: 150px;
+display: inline-block;
+float: right;
 
 }
 
