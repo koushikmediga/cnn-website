@@ -1,0 +1,144 @@
+#container{
+  width: 100%;
+}
+
+#headerbg{
+  width:100%;
+  background-color: black;
+  height: 75px;
+}
+
+body{
+  margin:0;
+}
+
+#interior{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+#logo{
+  width: 85px;
+  height: 85px;
+  background-image: url('images/logo.png');
+  float: left;
+  display: inline-block;
+}
+
+/*
+#nav{
+  width:995px;
+  float: left;
+  display: inline-block;
+  color: white;
+  margin-left: 20px;
+}*/
+
+
+#topnav{
+  width: 1015px;
+  float: left;
+  color: white;
+  height: 40px;
+  background-color: black;
+}
+
+
+.topnavFont{
+  font-size: 1.3em;
+  color: white;
+  font-family: sans-serif;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  line-height: 40px;
+  display:inline-block;
+  padding-right: 12px;
+}
+
+.topnavRight{
+  font-size: 0.9em;
+  color: #777;
+  float: right;
+  font-family: sans-serif;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  line-height: 40px;
+  display:inline-block;
+  padding-right: 12px;
+}
+
+#bottomnav{
+  width: 1015px;
+  float: left;
+  color: white;
+  height: 35px;
+  background-color: grey;
+}
+
+
+.bottomnavFont{
+  font-size: 0.95em;
+  color: black;
+  font-family: sans-serif;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  vertical-align: middle;
+  line-height: 35px;
+  display:inline-block;
+  padding-right: 12px;
+  font-weight: 600;
+}
+
+.bottomnavMoneyFont{
+  background-color: green;
+  font-size: 0.95em;
+  color: white;
+  font-family: sans-serif;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  line-height: 34px;
+  display:inline-block;
+  padding-right: 12px;
+  font-weight: 600;
+  padding-bottom: 0;
+}
+
+.LiveTV{
+  background-color: #d6221b;
+  font-size: 0.95em;
+  color: white;
+  font-family: sans-serif;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  line-height: 33px;
+  display:inline-block;
+  padding-right: 12px;
+  font-weight: 600;
+  float:right;
+}
+.SearchBox{
+  background-color: #d6221b;
+  font-size: 0.95em;
+  color: white;
+  font-family: sans-serif;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  line-height: 33px;
+  display:inline-block;
+  padding-right: 12px;
+  font-weight: 600;
+  float:right;
+}
+
+.mainsearch{
+height: 32px;
+vertical-align: middle;
+line-height: 35px;
+width: 35px;
+
+}
+
+
+.greyfont{
+  color:lightgrey;
+}
